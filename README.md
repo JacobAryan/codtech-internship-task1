@@ -6,16 +6,15 @@ DOMAIN: SOFTWARE DEVELOPMENT
 DURATION: 4 WEEKS 
 MENTOR:NEELA SANTOSH
 
-Task 2: Library Management API
-Tools Used: Node.js, Express.js, REST principles, Postman
+Task 1: Static Portfolio Website
+Tools Used: HTML5, CSS3, JavaScript, Font Awesome, Google Fonts
 Development Approach:
 
-Built CRUD endpoints following RESTful conventions
+Created a responsive layout using CSS Grid/Flexbox
 
-Tested API with Postman (screenshots included in repo)
+Implemented dynamic project loading via JavaScript arrays
 
-Referred to Express.js official documentation for routing
-
-Used npm for dependency management
-"Understood API design patterns by analyzing GitHub’s public APIs and implementing similar status codes (200/404/500)."
+Referenced W3Schools for form validation techniques
+Used Chrome DevTools for debugging and mobile testing
+"Learned to structure semantic HTML and apply media queries for cross-device compatibility by studying MDN Web Docs examples."
 
